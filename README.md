@@ -55,7 +55,7 @@ Voyageur: `/api/voyageurs` - Allows CRUD operations on voyageur.
 
 | Method | Endpoint | Description             |
 | ------ | -------- | ----------------------- |
-| GET    | /        | Get all traveler        |
+| GET    | /        | Get all travelers        |
 | POST   | /        | Create a new traveler   |
 | GET    | /:id     | Get a traveler by ID    |
 | PUT    | /:id     | Update a traveler by ID |
